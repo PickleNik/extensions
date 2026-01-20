@@ -2991,6 +2991,10 @@ version = "0.1.4"
 submodule = "extensions/semgrep"
 version = "0.0.2"
 
+[sentry-mcp]
+submodule = "extensions/sentry-mcp"
+version = "0.1.0"
+
 [seoul256]
 submodule = "extensions/seoul256"
 version = "0.0.1"
